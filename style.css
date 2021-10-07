@@ -20,7 +20,8 @@ body {
 	width: 100%;
 	max-width: 200px;
 	height: 50%;
-	border: 
+	border-radius: 5px;
+	justify-content: space-between; 
 }
 
 .loggedin_div {
