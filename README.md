@@ -1,6 +1,6 @@
 # login-auth
 This is a secure web login page using Firebase &amp; JavaScript
-#Test Infos
+# Test Infos
 Email: email@email.com<br>
 Password: emailbox
 
