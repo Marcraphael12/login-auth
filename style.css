@@ -52,12 +52,14 @@ h3 {
 input {
 	outline: none;
 	border-bottom: 1px solid #6600cc;
-	padding: 10px 15px; 
+	padding: 10px 15px;
+	transition: all 0.3s ease-in-out;
 }
 
 button {
 	border: 1px solid #6600cc;
 	border-radius: 5px;
+	transition: all 0.3s ease-in-out;
 }
 
 button:hover,
