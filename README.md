@@ -10,6 +10,6 @@ Password: emailbox
 [repl.it live](https://login-auth.marcraphael.repl.co)
 <br>[Github live](https://marcraphael12.github.io/login-auth/)
 
-Free for who need to use it 🤗 <br>
+Free for who need to use it 🤗 
 <br>Make with ❤️, JavaScript, HTML&CSS, and [Firebase API](https://firebase.google.com/)
 <br>Encourage me by just giving a star ⭐⭐⭐
